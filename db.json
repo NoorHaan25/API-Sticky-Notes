@@ -1,0 +1,65 @@
+{
+  "sticky-notes": [
+    {
+      "content": "الحمد لله",
+      "color": "rgb(182, 147, 253)",
+      "date": "July 7 , 2024",
+      "userId": "2",
+      "id": 4
+    },
+    {
+      "content": "اللهم صل وسلم وبارك علي سيدنا محمد و علي آله وصحبه أجمعين",
+      "color": "rgb(0, 212, 254)",
+      "date": "July 7 , 2024",
+      "userId": "2",
+      "id": 5
+    },
+    {
+      "content": "كن قوياً من أجل نفسك ",
+      "color": "rgb(255, 200, 114)",
+      "date": "July 28 , 2024",
+      "userId": "1",
+      "id": 6
+    },
+    {
+      "content": "فليكن همك السعي لا الوصول ",
+      "color": "rgb(182, 147, 253)",
+      "date": "July 28 , 2024",
+      "userId": "1",
+      "id": 7
+    },
+    {
+      "content": "حارب من أجل أحلامك",
+      "color": "rgb(255, 155, 114)",
+      "date": "July 28 , 2024",
+      "userId": "1",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "nourhan@gmail.com",
+      "password": "$2a$10$CIo3F7x71hWXzqLL/ByCMOIEeThbVV9GH7koY/9NVLvKbTy9yC6D6",
+      "userName": "nourhan",
+      "id": 1
+    },
+    {
+      "email": "taha@gmail.com",
+      "password": "$2a$10$pYsTflJn2tsIVXbzjzmmNuXxBi3HcVLLp83ET8iErvlRFQgZkes62",
+      "userName": "taha",
+      "id": 2
+    },
+    {
+      "email": "noorhan@yahoo.com",
+      "password": "$2a$10$8Ylg48wakjZpZWI.69fKLe3835L3kgJd2mlTat8rdc01XFoJ1yPvS",
+      "userName": "Noorhan",
+      "id": 3
+    },
+    {
+      "email": "noorhantahadaoud@yahoo.com",
+      "password": "$2a$10$fo/pXP3OLMrrVdm7g436puqUO2htP6ZVB1kicFBCSB0Z6h93swRwC",
+      "userName": "noorhan",
+      "id": 4
+    }
+  ]
+}
